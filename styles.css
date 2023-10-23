@@ -1,0 +1,15 @@
+
+:root {
+    --cor-fundo-menu: #50535A;
+    --cor-letras-menu: #FFFFFF;
+  }
+
+body {
+    background-color: var(--cor-letras-menu);
+  }
+  menu {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+  }
+  
